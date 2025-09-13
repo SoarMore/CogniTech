@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+streamlit
+openai
+langchain
+requests
+python-dotenv
+supabase
+highlight-io
+pydantic
+beautifulsoup4
